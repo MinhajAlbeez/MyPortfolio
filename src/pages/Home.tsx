@@ -24,10 +24,10 @@ const Home = () => {
             className="flex flex-col space-y-6"
           >
             <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-              HI, I AM<br />ROBERT GARCIA.
+              HI, I AM<br />Syed Minhaj Albeez.
             </h1>
             <p className="text-white/70 text-lg">
-              A Sydney based front-end developer passionate about building accessible and user-friendly websites.
+              A  front-end developer passionate about building accessible and user-friendly websites.
             </p>
             <div className="pt-4 flex flex-wrap gap-4">
               <Button variant="accent">
