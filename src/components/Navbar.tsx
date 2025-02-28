@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled ? 'bg-black bg-opacity-90 backdrop-blur-sm' : 'bg-transparent'}`}>
       <div className="container mx-auto px-6 md:px-12 py-4 flex justify-between items-center">
-        <Link to="/" className="text-2xl font-bold tracking-wider text-white">ROBERT GARCIA</Link>
+        <Link to="/" className="text-2xl font-bold tracking-wider text-white">Minhaj Albeez</Link>
         
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center space-x-10">
