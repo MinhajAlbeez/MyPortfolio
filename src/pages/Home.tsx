@@ -45,7 +45,7 @@ const Home = () => {
           >
             <img 
               src="/lovable-uploads/70892c6b-b657-4d2c-8b44-eb9833b05f48.png" 
-              alt="Robert Garcia" 
+              alt="minhaj albeez" 
               className="w-full rounded-lg object-cover"
             />
           </motion.div>
