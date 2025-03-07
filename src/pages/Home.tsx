@@ -24,7 +24,7 @@ const Home = () => {
             className="flex flex-col space-y-6"
           >
             <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-              HI, I AM<br />Syed Minhaj Albeez.
+              HI, I AM<br />Syed Minhaj Albeezzzzzzzzzzz.
             </h1>
             <p className="text-white/70 text-lg">
               A  front-end developer passionate about building accessible and user-friendly websites.
